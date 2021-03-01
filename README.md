@@ -9,5 +9,4 @@ _Classic Tetris game written entirely in pure Javascript, HTML and CSS_
 
 <br>
 
-<image src="images/game_play_crop.png">
 
